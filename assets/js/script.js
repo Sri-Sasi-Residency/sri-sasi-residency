@@ -998,7 +998,7 @@ function sendBookingToGoogleSheets(
 ) {
   // Use the Google Apps Script Web App URL from config
   const GOOGLE_SCRIPT_URL =
-    "https://script.google.com/macros/s/AKfycbxk2hfEJ4fAggZ9b9Q7I-5yYqxwSo3J7Eatj8x6Ub6Md2AeIV7r_SMS3yUpx29F5axm/exec";
+    "https://script.google.com/macros/s/AKfycbwAVOe1-87Jbzkjtun2jlsVS0M_lJTi-HL_ZZta5eaFVrOrxqcAtekCpZR3JCbHxZrB/exec";
 
   // Create form data to avoid CORS issues
   const formData = new FormData();
